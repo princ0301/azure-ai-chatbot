@@ -1,0 +1,10 @@
+python-dotenv 
+PyPDF2
+langchain
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+langchain-openai
