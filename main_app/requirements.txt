@@ -7,4 +7,12 @@ langchain-huggingface
 langchain-community
 faiss-cpu
 sentence-transformers
+azure-storage-blob 
+chromadb 
+databricks-sdk 
+streamlit
+huggingface-hub 
+langchain-community
+openai  
 langchain-openai
+python-dotenv
